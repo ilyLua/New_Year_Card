@@ -1,0 +1,17 @@
+[theme]
+# One of "success", "info", "warning", "danger", "secondary", "primary", "light", "dark", or a valid CSS color string.
+primaryColor = "#d33682"
+ 
+# 메인 콘텐츠 영역의 배경색
+# backgroundColor = "#002b36"
+backgroundColor = "#000000"
+ 
+# 사이트바와 대부분의 상호작용 위젯에 사용되는 배경색
+secondaryBackgroundColor = "#586e75"
+ 
+# 대부분의 텍스트에 사용되는 색상
+textColor = "#fafafa"
+ 
+# 기본 폰트 설정, 코드 블록을 제외한 모든 텍스트에 적용됨, "sans serif", "serif", "monospace" 중 하나를 선택
+# Default: "sans serif"
+font = "sans serif"
