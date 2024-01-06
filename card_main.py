@@ -1,5 +1,3 @@
-from pathlib import Path
-import json
 import streamlit as st
 from streamlit_lottie import st_lottie
 from streamlit_extras.let_it_rain import rain
@@ -20,7 +18,7 @@ st.set_page_config(page_title="Happy New Year", page_icon="🎄")
 run_snow_animation()
  
 # 상대방의 이름 가져오기
-st.header(f"Happy New Year! 🎄🎄🎄", anchor=False)
+st.header(f"Happy New Year!!! 🎄🎄🎄", anchor=False)
  
 # 로띠 애니메이션 실행
 st_lottie("https://lottie.host/6b3e2d26-14d7-414f-829f-ab2fd97c2b04/zkKY3piuls.json")
